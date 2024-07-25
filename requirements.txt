@@ -15,7 +15,7 @@ idna==3.2
 inflection==0.5.1
 itypes==1.2.0
 Jinja2==3.0.1
-Markdown==3.3.4
+mistune==2.0.4
 MarkupSafe==2.0.1
 packaging==21.0
 psycopg2-binary>=2.9.1
